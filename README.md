@@ -20,3 +20,7 @@
 5.  海量数据处理
  
     https://www.kancloud.cn/kancloud/the-art-of-programming/41608
+    
+6.  极客学院 Java面试宝典 (Java常考基础题)
+
+    http://wiki.jikexueyuan.com/project/java-interview-bible/
