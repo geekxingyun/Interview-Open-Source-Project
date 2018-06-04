@@ -1,5 +1,6 @@
 # Interview-Open-Source-Project
-收集优秀的面试开源项目
+收集优秀的面试开源资料
+
 1.  Everything you need to know to get the job.
  
     https://github.com/kdn251/interviews
