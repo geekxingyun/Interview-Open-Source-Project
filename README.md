@@ -24,3 +24,8 @@
 6.  极客学院 Java面试宝典 (Java常考基础题)
 
     http://wiki.jikexueyuan.com/project/java-interview-bible/
+
+7. 牛客网Java面试宝典  
+
+   https://www.nowcoder.com/tutorial/94/ea1986fcff294f6292385703e94689e8
+    
